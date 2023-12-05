@@ -1,0 +1,26 @@
+{
+  "name": "incidenciasweb",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cookie-universal-nuxt": "^2.1.4",
+    "core-js": "^3.9.1",
+    "croppie": "^2.6.5",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "nuxt": "^2.15.3",
+    "sweetalert2": "^11.0.12",
+    "vee-validate": "^3.4.7",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
+}
