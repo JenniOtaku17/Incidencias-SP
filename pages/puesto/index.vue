@@ -9,7 +9,7 @@
 
       <v-col cols="12" sm="5" class="text-right">
         <h3>
-          <v-icon color="grey darken-4">mdi-account-tie</v-icon> &nbsp; Lista de Puestos
+          <v-icon>mdi-account-tie</v-icon> &nbsp; Lista de Puestos
         </h3>
         <h5
           class="text--secondary"

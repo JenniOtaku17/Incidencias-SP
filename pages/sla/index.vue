@@ -9,7 +9,7 @@
 
       <v-col cols="12" sm="5" class="text-right">
         <h3>
-          <v-icon color="grey darken-4">mdi-check-decagram</v-icon> &nbsp; Lista de SLA
+          <v-icon >mdi-check-decagram</v-icon> &nbsp; Lista de SLA
         </h3>
         <h5
           class="text--secondary"
